@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ea1c9a9.chunk.css",
+    "main.js": "/static/js/main.18b75601.chunk.js",
+    "main.js.map": "/static/js/main.18b75601.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8631a539.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8631a539.js.map",
+    "static/js/2.0844a8fd.chunk.js": "/static/js/2.0844a8fd.chunk.js",
+    "static/js/2.0844a8fd.chunk.js.map": "/static/js/2.0844a8fd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3bf978eb6eb06e1100845fb9dbaa04d5.js": "/precache-manifest.3bf978eb6eb06e1100845fb9dbaa04d5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9ea1c9a9.chunk.css.map": "/static/css/main.9ea1c9a9.chunk.css.map",
+    "static/media/FormCek.css": "/static/media/delivery.42770fb4.png",
+    "static/media/jne.png": "/static/media/jne.2e4e7e63.png",
+    "static/media/pos.png": "/static/media/pos.ac2bb5d7.png",
+    "static/media/tiki.png": "/static/media/tiki.34499dfe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8631a539.js",
+    "static/js/2.0844a8fd.chunk.js",
+    "static/css/main.9ea1c9a9.chunk.css",
+    "static/js/main.18b75601.chunk.js"
+  ]
+}
